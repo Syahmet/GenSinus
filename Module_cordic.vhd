@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 -- Auteur         : Ahmet SY
--- Projet         : Comet Interceptor
--- Entreprise     : LPC2E
+-- Projet         : 
+-- Entreprise     : 
 -- Version        : V2
 -- Nom du fichier : Module_cordic.vhd
 -- FPGA           : NG-Medium de NanoXplore
